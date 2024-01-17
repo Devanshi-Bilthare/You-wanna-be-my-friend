@@ -25,7 +25,7 @@ main{
 }
 
 .img1{
-    width: 60px;
+    width: 100px;
     animation: 2s frame linear infinite;
 }
 
@@ -40,7 +40,7 @@ main{
 }
 
 main h1{
-    font-size: 25px;
+    font-size: 35px;
     font-weight: 100;
     margin-top: 2%;
 }
@@ -71,6 +71,7 @@ button{
     cursor: pointer;
     position: absolute;
     transition: .5s ease all;
+    font-size: 20px;
 }
 
 .btn1{
@@ -79,8 +80,8 @@ button{
 }
 
 .img2{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
